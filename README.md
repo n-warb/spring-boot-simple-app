@@ -5,6 +5,8 @@ Instructions:
 ```
 git clone git@github.com:n-warb/spring-boot-simple-app.git
 mvn clean install
+mvn spring-boot:run
 ```
-Execute from IDE
+
+Application runs on port 8080
 
